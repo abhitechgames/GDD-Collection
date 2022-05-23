@@ -10,8 +10,6 @@
 
 ![image](https://user-images.githubusercontent.com/59042408/168735272-631f5ea2-e22c-492e-9012-a38dc5fd4874.png)
 
-![image](https://user-images.githubusercontent.com/59042408/168735321-941e1b88-c268-4b23-9035-77824167a3a4.png)
-
 # [Team Fortress 2](https://github.com/abhitechgames/Games-Breakdown-in-GDDs/blob/main/Team%20Fortress%202%20GDD.pdf)
 
 ![image](https://user-images.githubusercontent.com/59042408/168735771-9a7705a5-d9d9-4495-be20-0fba6751a51d.png)
