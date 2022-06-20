@@ -18,6 +18,9 @@
 
 ![image](https://user-images.githubusercontent.com/59042408/168735597-f28c4bb1-c023-4223-a675-f983062c7cee.png)
 
+# [Clash of Clans](https://github.com/abhitechgames/Games-Breakdown-in-GDDs/blob/main/FURI%20-%20GDD.pdf)
 
+![Screenshot 2022-06-20 115937](https://user-images.githubusercontent.com/59042408/174538944-f7e25194-1dc7-4e74-ab5d-6d1b5080d447.png)
 
-#### Note: These GDDs are just to get an idea about the game, they are not fully detailed GDDs.
+#### Note: These GDDs are just to get an idea about the game, they are not fully detailed GDDs.![Screenshot 2022-06-20 115937](https://user-images.githubusercontent.com/59042408/174538894-1341c492-2ced-4f1d-bc6d-a59849465592.png)
+
