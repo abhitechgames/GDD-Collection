@@ -22,5 +22,5 @@
 
 ![Screenshot 2022-06-20 115937](https://user-images.githubusercontent.com/59042408/174538944-f7e25194-1dc7-4e74-ab5d-6d1b5080d447.png)
 
-#### Note: These GDDs are just to get an idea about the game, they are not fully detailed GDDs.![Screenshot 2022-06-20 115937](https://user-
+#### Note: These GDDs are just to get an idea about the game, they are not fully detailed GDDs.
 
